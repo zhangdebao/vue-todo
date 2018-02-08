@@ -1,9 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import './assets/styles/test.css'
-import './assets/styles/test.stylus.styl'
-import './assets/images/bg.jpg'
+// import './assets/styles/test.css'
+// import './assets/styles/test.stylus.styl'
+// import './assets/images/bg.jpg'
+import './assets/styles/global.styl'
 /* eslint-disable */
 /**
  * [h参数 本身是一个createApp方法]
